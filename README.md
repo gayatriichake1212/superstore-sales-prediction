@@ -165,8 +165,3 @@ Open `KNN Regression.ipynb` in Jupyter and run all cells. The last cells save a 
 
 Python · Pandas · NumPy · scikit-learn · Flask · HTML/CSS · Jupyter Notebook
 
----
-
-## 📄 License
-
-This project is for educational purposes.
